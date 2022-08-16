@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Sander van Rijn. I’m a Computer Science PhD candidate at Leiden University with interests in Natural Computing Algorithms, Machine Learning, Clean Code and Open Science practices.
+
+You can find my homepage at [svrijn.nl](https://www.svrijn.nl), although if you're looking for anything other than my publications, my [blog](https://blog.svrijn.nl) is probably what you're looking for.
+
+## Repositories
+
+Out of the various repositories I have here on GitHub, I have pinned the ones you might be most interested in. By all means have a look around them and get in touch if they were helpful or if you have any questions about them.
+
+
 <!--
 **sjvrijn/sjvrijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
